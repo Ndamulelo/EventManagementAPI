@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementAPI.Core", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementAPI.Infrastructure", "EventManagementAPI.Infrastructure\EventManagementAPI.Infrastructure.csproj", "{593C96E0-28B0-45AA-AB71-EA607D49D1DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagementAPI.Shared", "EventManagementAPI.Shared\EventManagementAPI.Shared.csproj", "{F557E832-C172-4764-A671-7E93F96ADAF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{593C96E0-28B0-45AA-AB71-EA607D49D1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{593C96E0-28B0-45AA-AB71-EA607D49D1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{593C96E0-28B0-45AA-AB71-EA607D49D1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F557E832-C172-4764-A671-7E93F96ADAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F557E832-C172-4764-A671-7E93F96ADAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F557E832-C172-4764-A671-7E93F96ADAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F557E832-C172-4764-A671-7E93F96ADAF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
